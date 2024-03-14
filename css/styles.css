@@ -8,7 +8,7 @@ body {
 div {
     max-width: 1000px;
     padding: 25px;
-    background-color: #fff7fc;
+    background-color: #ffffff;
     text-align: left;
 }
 
@@ -46,6 +46,7 @@ p {
 #preparatión{
    
     color: #6b193b;
+    background-color: #fff7fc;
     font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-style: normal;
@@ -57,3 +58,11 @@ li {
   font-weight: weight;
   font-style: normal;
 }
+td {
+    padding: 0px 90px 0px 400px;
+    color: #824431;
+    font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
